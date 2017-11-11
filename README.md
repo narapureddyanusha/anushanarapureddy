@@ -7,9 +7,14 @@ Fingers & Toes:
 5.     A restart button
 
  What should the page do:
-1.The counter should count up incrementally every second and the counter should stop once it reaches the given number
+1. The counter should count up incrementally every second and the counter should stop once it reaches the given number
+
 2.Highlight fingers when the counter is divisible by 3
+
 3.Highlight toes when the counter is divisible by 5
+
 4.Highlight fingers and toes when the counter is divisible by both 3 and 5
+
 5.The reset button should reset the counter and clear the input
+
 6.The restart button should restart the counter
